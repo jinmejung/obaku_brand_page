@@ -28,7 +28,7 @@
     }
     /* main visual */
     .main_visual{
-        background:url(../img/obaku_main.jpg) no-repeat;
+        background:url(../img/obaku_main.jpg) no-repeat center center;
         background-size:cover;
         height:600px;
         position:relative;
